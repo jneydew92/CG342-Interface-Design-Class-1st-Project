@@ -1,5 +1,16 @@
 h1 {
     font-size: 40px;
     color: mediumorchid;
-    font-style: italic ;
+    font-style:'Sassy Frass', cursive;
+}
+
+p{
+    /*add a custom google font family */
+    font-family: 'Oswald', sans-serif;
+    /* change the size */
+    font-size: 20px;
+    /* change the line height */
+    line-height: 20px;
+    /* change the color */
+    color: #6495ED; 
 }
