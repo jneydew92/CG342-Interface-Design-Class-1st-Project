@@ -17,3 +17,12 @@ p{
     /* change the color */
     color: #6495ED; 
 }
+
+.button-links{
+    border-style: solid;
+    border-color: aquamarine;
+    background-color: coral;
+    border-width: 2px;
+    text-decoration: none;
+    color: black;
+}
