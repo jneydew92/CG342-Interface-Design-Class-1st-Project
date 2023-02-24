@@ -80,7 +80,8 @@ p{
 footer{
     height: 200px;
     text-align: center;
-    padding-top: 10px 0;
+    padding: 10px 0;
     background-color: beige;
+    margin:0 auto;
     
 }
