@@ -2,7 +2,7 @@ body{
 background-color: aliceblue;
 }
 h1 {
-    font-size: 40px;
+    font-size: 80px;
     color: mediumorchid;
     font-style:'Sassy Frass', cursive;
 }
@@ -80,4 +80,6 @@ footer{
     height: 200px;
     text-align: center;
     padding-top: 10px 0;
+    background-color: beige;
+    
 }
