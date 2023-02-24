@@ -18,11 +18,66 @@ p{
     color: #6495ED; 
 }
 
-.button-link{
-    border-style: solid;
-    border-color: aquamarine;
-    background-color: coral;
+.button-link {
+        border-style: solid;
+        border-color: darkslateblue;
+        background-color: cornsilk;
+        border-width: 2px;
+        text-decoration: none;
+        color: black;
+        padding: 8px;
+        display: block;
+        width: 100px;
+        border-radius: 10px;
+        text-align: center;
+        margin-top: 20px;
+}
+
+.button-alert{
+        border-style: dotted;
+        border-color: darkred;
+        background-color: darkgrey;
+        border-width: 2px;
+        text-decoration: none;
+        color: black;
+        padding: 8px;
+        display: block;
+        width: 100px;
+        border-radius: 10px;
+        text-align: center;
+        margin-top: 20px;
+} 
+
+.button-attack{
+    border-style: outset;
+    border-color: darkorange;
+    background-color: plum;
     border-width: 2px;
     text-decoration: none;
     color: black;
+    padding: 8px;
+    display: block;
+    width: 100px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.top-banner {
+    height: 240px;
+    text-align: center;
+    padding-top: 110px;
+    background-color: cadetblue;
+}
+
+.main-content {
+    width: 800px;
+    margin: 0 auto;
+    padding: 0 10px; 
+}
+
+footer{
+    height: 200px;
+    text-align: center;
+    padding-top: 10px 0;
 }
