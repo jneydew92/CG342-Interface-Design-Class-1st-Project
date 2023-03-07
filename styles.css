@@ -33,6 +33,12 @@ p{
         text-align: center;
         margin-top: 20px;
 }
+    nav {
+        padding: 20px;
+        position: fixed;
+        width: 100%;
+        background-color: white;
+}
 
 .button-alert{
         border-style: dotted;
@@ -70,6 +76,14 @@ p{
     padding-top: 110px;
     background-color: yellow;
     margin: 0 auto;
+    border-width: 300px;
+    padding: 10px;
+    border-radius: 20px;
+    display: block;
+    margin-top: 10px;
+    background-image: url(https://cdn.suwalls.com/wallpapers/celebrities/beyonce-knowles-1532-400x250.jpg);
+    Background-size: cover;
+    background-attachment: fixed;
 }
 
 .main-content {
