@@ -36,7 +36,7 @@ p{
 .nav-links {
     list-style-type: none;
     padding: 0;
-    width: 100px;
+    width: 300px;
     margin: 0 auto;
     text-align: center;
 }
@@ -82,14 +82,13 @@ p{
     height: 240px;
     text-align: center;
     padding-top: 110px;
-    background-color: yellow;
+    background-image: url(https://www.pexels.com/photo/gold-glitter-lot-751374/);
     margin: 0 auto;
     border-width: 300px;
     padding: 10px;
     border-radius: 20px;
     display: block;
     margin-top: 10px;
-    background-image: url(https://www.pexels.com/photo/gold-glitter-lot-751374/);
     Background-size: cover;
     background-attachment: fixed;
 }
