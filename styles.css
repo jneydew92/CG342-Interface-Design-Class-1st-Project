@@ -46,6 +46,14 @@ p{
         width: 100%;
         background-color: white;
 }
+.nav-links li{
+    display: inline;
+}
+
+.nav-links li a{
+    padding-left: 10px;
+    padding-right: 5px;
+}
 
 
 .button-alert{
