@@ -133,3 +133,10 @@ h1 {
 }
 
 }
+img{
+    width:100%;
+}
+.article-image{
+    border: 1px solid #f8992c;
+    width: 300px;
+}
