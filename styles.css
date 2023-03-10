@@ -115,3 +115,21 @@ footer{
     margin:0 auto;
     
 }
+/* typography */
+
+/* Mobile styles */
+@media only screen and (max-wdith:600px){
+    /* mobile styles go here */
+
+body {
+    background-color:lightblue;
+    
+}
+h1 {
+    font-size: 40px;
+    color: #000;
+    background-color: white;
+    margin: auto;
+}
+
+}
